@@ -1,5 +1,4 @@
 # A)
-[Cloud-init](cloud-init.yml)
 ![dbs](../assets/2025-02-17-16-09-21.png)
 ## Schauen Sie sich Ihren Connection String an. Erklären Sie was die Option authSource=admin macht
 Admin ist der Name der DB in der die User Credentials gespeichert sind:
